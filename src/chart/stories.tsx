@@ -1,6 +1,6 @@
 import { Meta, Story } from '@storybook/react/types-6-0';
 import React from "react";
-import { Point } from 'Src/types';
+import { Point } from 'src/types';
 import Chart from '.';
 
 export default {

@@ -1,6 +1,6 @@
 import React, { FC, MouseEventHandler, useCallback, useMemo, useRef, useState, WheelEventHandler } from "react";
 import { Line, LineChart, Tooltip, XAxis, YAxis } from "recharts";
-import { Point } from "Src/types";
+import { Point } from "src/types";
 
 export interface Props {
     data: Point[];
